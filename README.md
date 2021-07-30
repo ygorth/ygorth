@@ -6,7 +6,7 @@
 
 - 😄 My Pronouns: He/Him
 - 🏢 I'm currently working at **[rogers.com](https://www.rogers.com)**
-- ⚙️ I use daily: `AWS`, `IaC`, `GNU/Linux`, `.go`, `.py`, `.sh`
+- ⚙️ I use daily: `AWS`, `GNU/Linux`, `.go`, `.py`, `.sh`
 - 🌱 Learning all about **Site Reliability Engineering**
 - 💬 Ping me about **sre**, **cloudops**, **iac**, **ci/cd**, **agile servant leadership**, **veganism 💚**
 - 📫 Reach me: [linkedin.com/in/ygorthomaz/](https://www.linkedin.com/in/ygorthomaz/)
