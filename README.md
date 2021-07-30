@@ -5,7 +5,7 @@
 ##### BIO
 
 - 😄 My Pronouns: He/His
-- 🏢 I'm currently working at **rogers.com**
+- 🏢 I'm currently working at **[rogers.com](https://www.rogers.com)**
 - ⚙️ I use daily: `AWS`, `Linux`, `.go`, `.py`, `.sh`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **sre**, **cloudops**, **development**, **agile servant leadership**, **veganism**
