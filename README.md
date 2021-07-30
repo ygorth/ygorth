@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ygorth/ygorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### &#x1f4c8; My GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygorth&show_icons=true&line_height=33&count_private=true&theme=dark" alt="ygorth's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorth&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
