@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 #### &#x1f4c8; My GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygorth&hide=stars,issues&show_icons=true&&count_private=true&include_all_commits =true&line_height=33&theme=dark" alt="ygorth's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygorth&hide=stars,issues&show_icons=true&include_all_commits=true&line_height=33&theme=dark" alt="ygorth's GitHub Stats" />
