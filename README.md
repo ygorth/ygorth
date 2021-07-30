@@ -1,17 +1,13 @@
-<!--
-**ygorth/ygorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+#### I'm a Site Reliability Engineer working in Toronto, Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### &#x1f4c8; My GitHub Stats
+##### BIO
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygorth&hide=stars,issues&show_icons=true&count_private=true&line_height=33&theme=dark" alt="ygorth's GitHub Stats" />
+- 😄 My Pronouns: He/His
+- 🏢 I'm currently working at **rogers.com**
+- ⚙️ I use daily: `AWS`, `Linux`, `.go`, `.py`, `.sh`
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **sre**, **cloudops**, **development**, **agile servant leadership**, **veganism**
+- 📫 Reach me: [linkedin.com/in/ygorthomaz/](https://www.linkedin.com/in/ygorthomaz/)
+- ⚡️ Fun fact: I'm a huge fan of David Bowie
