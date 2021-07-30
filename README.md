@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 😄 My Pronouns: He/His
+- 😄 My Pronouns: He/Him
 - 🏢 I'm currently working at **[rogers.com](https://www.rogers.com)**
 - ⚙️ I use daily: `AWS`, `GNU/Linux`, `.go`, `.py`, `.sh`
 - 🌱 Learning all about **Site Reliability Engineering**
