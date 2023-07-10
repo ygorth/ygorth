@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Site Reliability Engineer working in Toronto, Canada.
+#### I'm an Agile servant leader focused on CloudOps, SRE, and DevOps working in Ontario, Canada.
 
 ##### BIO
 
@@ -8,7 +8,7 @@
 - 🏢 I'm currently working at **[rogers.com](https://www.rogers.com)**
 - 👨‍🏭 Hands-on experience delivering multiple enterprise-level projects. Seasoned in deploying, supporting, developing, and troubleshooting solutions across cloud and on-premise platforms. 
 - ⚙️ I use daily: `AWS`, `GNU/Linux`, `.go`, `.sh`, `Agile`, `Scrum`
-- 🌱 Learning all about **SRE, DevOps, and Platform engineering**
+- 🌱 Learning all about **SRE, DevSecOps, and Platform engineering**
 - 💚 I have a genuine interest in backing non-profit initiatives, particularly those dedicated to animal rights and veganism - please don't hesitate to contact me (#pro-bono)
 - 💬 Ping me about **sre**, **cloudops**, **iac**, **ci/cd**, and **agile servant leadership**
 - 📫 Reach me: [linkedin.com/in/ygorthomaz/](https://www.linkedin.com/in/ygorthomaz/)
