@@ -10,6 +10,6 @@
 - ⚙️ I use daily: `AWS`, `GNU/Linux`, `.go`, `.sh`, `Agile`, `Scrum`
 - 🌱 Learning all about **SRE, DevSecOps, and Platform engineering**
 - 💚 I have a genuine interest in backing non-profit initiatives, particularly those dedicated to animal rights and veganism - please don't hesitate to contact me (#pro-bono)
-- 💬 Ping me about **sre**, **cloudops**, **iac**, **ci/cd**, and **agile servant leadership**
+- 💬 Ping me about **sre**, **cloudops**, **iac**, **ci/cd**, and **agile leadership**
 - 📫 Reach me: [linkedin.com/in/ygorthomaz/](https://www.linkedin.com/in/ygorthomaz/)
 - ⚡️ Fun fact: I'm a huge fan of [David Bowie](https://www.youtube.com/watch?v=iYYRH4apXDo) and [Jacque Fresco](https://youtu.be/VbsIP8kYUFc)
