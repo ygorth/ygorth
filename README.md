@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an Agile servant leader focused on CloudOps, SRE, and DevSecOps from Ontario, Canada.
+#### I'm an Agile servant leader focused on CloudOps, SRE, and DevSecOps from Canada.
 
 ##### BIO
 
