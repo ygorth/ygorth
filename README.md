@@ -11,10 +11,9 @@
 
 #### Continuous Learning Journey (since September 2024)
 
-- 🎯 **In Progress**: 
+- 🎯 **In Progress**:
   - [Argo CD Essential Guide for End Users with Practice (Udemy)](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/) – Ongoing
-
 - 📖 **Last Book Read**: 
 - 📹 **Recently Watched**: 
 - 📰 **What I've Been Reading**: 
-  - [Best practices for developing and deploying cloud infrastructure with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html) – September 2024
+  - [Best Practices for Developing and Deploying Cloud Infrastructure with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html) – September 2024
