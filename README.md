@@ -13,7 +13,8 @@
 
 - 🎯 **In Progress**:
   - [Argo CD Essential Guide for End Users with Practice (Udemy)](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/) – Ongoing
+  - [AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide) - Ongoing
 - 📖 **Last Book Read**: 
 - 📹 **Recently Watched**: 
-- 📰 **What I've Been Reading**: 
+- 📰 **What I've Been Reading**:
   - [Best Practices for Developing and Deploying Cloud Infrastructure with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html) – September 2024
