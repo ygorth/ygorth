@@ -13,5 +13,5 @@
 
 - 📖 **Last Book Read**: [Insert book title]
 - 📹 **Recently Watched**: [Insert video(s) consumed]
-- 📰 **Recent Articles**: 
+- 📰 **What I've Been Reading**: 
   - [Best practices for developing and deploying cloud infrastructure with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html) – September 2024
