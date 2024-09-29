@@ -11,6 +11,8 @@
 
 #### Continuous Learning Journey (since September 2024)
 
+- 🎯 **In Progress**: 
+  - [Argo CD Essential Guide for End Users with Practice (Udemy)](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/) – Ongoing
 - 📖 **Last Book Read**: 
 - 📹 **Recently Watched**: 
 - 📰 **What I've Been Reading**: 
