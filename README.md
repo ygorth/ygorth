@@ -12,7 +12,7 @@
 #### Continuous Learning Journey (since September 2024)
 
 - 🎯 **In Progress**:
-  - [Argo CD Essential Guide for End Users with Practice (Udemy)](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/) – Ongoing
+  - [Argo CD Essential Guide for End Users with Practice (Udemy)](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/) – Ongoing (~6-7 hours)
   - [AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide) - Ongoing (~10-15 hours of reading)
 - 📖 **Last Book Read**: 
 - 📹 **Recently Watched**: 
