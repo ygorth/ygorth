@@ -14,6 +14,7 @@
 - 🎯 **In Progress**:
   - [Argo CD Essential Guide for End Users with Practice (Udemy)](https://www.udemy.com/course/argo-cd-essential-guide-for-end-users-with-practice/) – Ongoing (~6-7 hours)
   - [AWS Cloud Development Kit (AWS CDK) v2](https://docs.aws.amazon.com/cdk/v2/guide) - Ongoing (~10-15 hours of reading)
+  - [Conducting Go training sessions for our community - YouTube Channel - @BrazilITRemote](https://www.youtube.com/@BrazilITRemote/streams) - Ongoing
 - 📖 **Last Book Read**: 
 - 📹 **Recently Watched**: 
 - 📰 **What I've Been Reading**:
