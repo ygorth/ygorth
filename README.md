@@ -18,4 +18,6 @@
 - 📖 **Last Book Read**: 
 - 📹 **Recently Watched**: 
 - 📰 **What I've Been Reading**:
+  - [What is RDS Proxy? Exploring with benchmarks](https://blog.sequin.io/rds-proxy/) - January 2025
   - [Best Practices for Developing and Deploying Cloud Infrastructure with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html) – September 2024
+
