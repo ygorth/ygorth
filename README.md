@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an Agile servant leader focused on DevSecOps, SRE, and Platform Engineering from Canada.
+#### I'm an Agile servant leader focused on DevOps, SRE, and Platform Engineering from Canada.
 
 #### BIO
 
