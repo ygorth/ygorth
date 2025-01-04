@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm an Agile servant leader focused on DevOps, SRE, and Platform Engineering from Canada.
+#### I'm a tech leader focused on SRE, DevSecOps, and Platform Engineering. Passionate about Agile and blameless culture, I'm always learning about CloudOps and Ethical AI. 
 
 #### BIO
 
 - 😄 My Pronouns: He/Him.
 - 👨‍🏭 Hands-on experience delivering multiple enterprise-level projects in media, gaming, and government. Agile, Scrum, and blameless culture evangelist.
-- 🌱 Learning all about **SRE, DevSecOps, and Platform engineering**.
+- 🌱 Learning all about **SRE, DevSecOps, Platform engineering, CloudOps, and Ethical AI.**.
 - ⚡️ Fun fact: I'm a huge fan of [David Bowie](https://www.youtube.com/watch?v=iYYRH4apXDo).
 
 #### Continuous Learning Journey (since September 2024)
