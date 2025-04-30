@@ -9,6 +9,10 @@
 - 🌱 Learning all about **SRE, DevSecOps, Platform engineering, CloudOps, and Ethical AI.**
 - ⚡️ Fun fact: I'm a huge fan of [David Bowie](https://www.youtube.com/watch?v=iYYRH4apXDo).
 
+#### Some Writing & Recordings
+
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) at [@BrazilITRemote](https://brazilitremote.com/) - Workshop with Brazilian IT Students - [Full Playlist (Portuguese)](https://www.youtube.com/playlist?list=PLdNLJT04XfQ5OQjhQZrjSe9oJlg7Yi0v6) - Done (~45 hours)
+
 #### Continuous Learning Journey (since September 2024)
 
 - 🎯 **In Progress**:
