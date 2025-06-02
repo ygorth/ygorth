@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a tech leader focused on SRE, DevSecOps, and Platform Engineering. Passionate about Agile and blameless culture, I'm always learning about CloudOps and Ethical AI. 
+#### I'm a Agile servant leader focused on SRE, DevSecOps, and Platform Engineering. Passionate about Agile and blameless culture, I'm always learning about CloudOps and Ethical AI.
 
 #### BIO
 
