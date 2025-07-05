@@ -7,7 +7,7 @@
 - 😄 My Pronouns: He/Him.
 - 👨‍🏭 Hands-on experience delivering multiple enterprise-level projects in media, gaming, and government. Agile, Scrum, and blameless culture evangelist.
 - 🌱 Learning all about **SRE, DevSecOps, Platform engineering, CloudOps, and Ethical AI.**
-- ⚡️ Fun fact: I'm a huge fan of [David Bowie](https://www.youtube.com/watch?v=iYYRH4apXDo).
+- ⚡️ Fun fact: I'm a huge fan of [David Bowie](https://www.youtube.com/watch?v=iYYRH4apXDo) and [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis).
 
 #### Some Writing & Recordings
 
