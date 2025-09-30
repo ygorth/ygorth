@@ -5,5 +5,5 @@
 #### BIO
 
 - 😄 My Pronouns: He/Him.
-- 👨‍🏭 Hands-on experience delivering multiple enterprise-level projects in media, AI (Generative AI & LLMs), gaming, and government. Agile, Scrum, and blameless culture evangelist.
+- 👨‍🏭 Hands-on experience delivering multiple enterprise-level projects in media, gaming, AI (Generative AI & LLMs), and government. Agile, Scrum, and blameless culture evangelist.
 - 🌱 Learning all about **SRE, DevSecOps, Platform engineering, CloudOps, and Ethical AI.**
