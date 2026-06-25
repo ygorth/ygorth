@@ -7,3 +7,4 @@
 - 😄 My Pronouns: He/Him.
 - 👨‍🏭 Hands-on experience delivering multiple enterprise-level projects in media, gaming, AI (Generative AI / AIOps), and government. Agile, Scrum, and blameless culture evangelist.
 - 🌱 Learning all about **SRE, DevSecOps, Platform engineering, CloudOps, and Ethical AI.**
+- Founder of https://brazilitremote.com/
